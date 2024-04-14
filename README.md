@@ -23,9 +23,13 @@
 * 🤝🚀 Habilidades Técnicas:
 
 Linguagens: C#, SQL
+
 Frameworks: .NET
+
 Bancos de Dados: SQL Server
+
 Ferramentas: Docker, Kubernetes
+
 Plataformas: AWS (Amazon Web Services)
 
 * 💡 Além de minhas habilidades técnicas, trago consigo uma experiência prática no desenvolvimento de soluções inovadoras. Recentemente, desenvolvi um software em C# que simplifica a coleta de dados de boletos bancários, proporcionando uma gestão financeira consolidada e segura por meio da extração precisa de códigos de barras e valores.
