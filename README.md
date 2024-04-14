@@ -1,4 +1,7 @@
-# 👋 Olá! Sou Diego Teles, um desenvolvedor de software apaixonado por tecnologia, atualmente baseado em São Paulo, Brasil. Com 22 anos de idade e uma sede insaciável por conhecimento, estou em uma jornada constante de aprimoramento na área de desenvolvimento de sistemas.
+# 👋 Olá!
+
+* Sou Diego Teles, um desenvolvedor de software apaixonado por tecnologia, atualmente baseado em São Paulo, Brasil. Com 22 anos de idade e uma sede insaciável por conhecimento, estou em uma jornada constante de aprimoramento na área de desenvolvimento de 
+  sistemas.
 
 * 🔭 Desenvolvo soluções de software utilizando uma variedade de tecnologias e ferramentas, incluindo C#, .NET, SQL Server, Docker, Kubernetes e AWS. Com uma abordagem focada em eficiência e inovação, busco sempre integrar tecnologias de ponta em meus           projetos para oferecer soluções robustas e de alta qualidade.
 
@@ -16,7 +19,7 @@
 * 📘 Estou sempre em busca de aprendizado contínuo e compartilhamento de conhecimento. Seja desenvolvendo projetos práticos, escrevendo artigos técnicos ou ensinando, estou comprometido em contribuir para a comunidade e promover o crescimento profissional 
    de outros desenvolvedores.
    
-# 🤝🚀 Habilidades Técnicas:
+* 🤝🚀 Habilidades Técnicas:
 
 Linguagens: C#, SQL
 Frameworks: .NET
@@ -24,6 +27,6 @@ Bancos de Dados: SQL Server
 Ferramentas: Docker, Kubernetes
 Plataformas: AWS (Amazon Web Services)
 
-## 💡 Além de minhas habilidades técnicas, trago consigo uma experiência prática no desenvolvimento de soluções inovadoras. Recentemente, desenvolvi um software em C# que simplifica a coleta de dados de boletos bancários, proporcionando uma gestão financeira consolidada e segura por meio da extração precisa de códigos de barras e valores.
+* 💡 Além de minhas habilidades técnicas, trago consigo uma experiência prática no desenvolvimento de soluções inovadoras. Recentemente, desenvolvi um software em C# que simplifica a coleta de dados de boletos bancários, proporcionando uma gestão financeira consolidada e segura por meio da extração precisa de códigos de barras e valores.
 
-Vamos nos conectar e explorar juntos as oportunidades para futuros projetos que nos aguardam!
+* Vamos nos conectar e explorar juntos as oportunidades para futuros projetos que nos aguardam!
