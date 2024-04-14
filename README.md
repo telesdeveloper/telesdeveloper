@@ -16,8 +16,9 @@
 
 * 💬 Tenho grande interesse em discutir e implementar Infraestrutura como Código, com ênfase no AWS CDK. Acredito que a automação da infraestrutura é essencial para garantir uma implantação consistente e confiável de aplicativos na nuvem.
 
-* 📘 Estou sempre em busca de aprendizado contínuo e compartilhamento de conhecimento. Seja desenvolvendo projetos práticos, escrevendo artigos técnicos ou ensinando, estou comprometido em contribuir para a comunidade e promover o crescimento profissional 
-   de outros desenvolvedores.
+* 📘 Estou sempre em busca de aprendizado contínuo e compartilhamento de conhecimento. Seja desenvolvendo projetos práticos, escrevendo artigos técnicos ou ensinando, estou comprometido em contribuir para a comunidade e promover o crescimento 
+  profissional 
+  de outros desenvolvedores.
    
 * 🤝🚀 Habilidades Técnicas:
 
