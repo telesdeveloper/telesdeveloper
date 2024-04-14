@@ -1,26 +1,29 @@
-# 👋 Hello!
+# 👋 Olá! Sou Diego Teles, um desenvolvedor de software apaixonado por tecnologia, atualmente baseado em São Paulo, Brasil. Com 22 anos de idade e uma sede insaciável por conhecimento, estou em uma jornada constante de aprimoramento na área de desenvolvimento de sistemas.
 
-I'm Andre Sionek, a Lead Software/Data Engineer from Brazil, but living in London. 
+* 🔭 Desenvolvo soluções de software utilizando uma variedade de tecnologias e ferramentas, incluindo C#, .NET, SQL Server, Docker, Kubernetes e AWS. Com uma abordagem focada em eficiência e inovação, busco sempre integrar tecnologias de ponta em meus           projetos para oferecer soluções robustas e de alta qualidade.
 
-* 🔭 I have worked in a variety of businesses: financial services, marketplaces, real estate, online food delivery services. 
-* ❤️ I love to work at the intersection of Data and Software Engineering.
-* 😴 I'm lazy. So I tend to automate everything I can.
-* ☁️ I work on the cloud... a.k.a. AWS.
-* 💬 I love talking about Infrastructure as Code, especially AWS CDK.
-* 📘 I'm writing a book and I really enjoy teaching!
-* 🐶 My dog is called "Belisco", which means "to pinch" in portuguese. Yeah... He bites.
+* ❤️ Tenho uma paixão genuína pelo desenvolvimento de software e sou movido pela oportunidade de criar soluções que impactam positivamente a vida das pessoas. Cada linha de código é uma oportunidade para explorar novas ideias e desafiar os limites da         
+   tecnologia.
+   
+* 😴 Sou um entusiasta da automação e estou constantemente buscando simplificar processos e aumentar a eficiência em todas as minhas tarefas diárias. Acredito que a automação é a chave para liberar tempo e recursos para atividades mais estratégicas e 
+   criativas.
+   
+* ☁️ Possuo experiência sólida em trabalhar na nuvem, especialmente com a AWS. Desde a implantação até o gerenciamento de serviços, estou confortável em trabalhar em ambientes de nuvem complexos, garantindo uma infraestrutura sólida e escalável para os 
+   projetos em que estou envolvido.
 
-## 🔗 Connect with me
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10353023)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AndreSionek)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
+* 💬 Tenho grande interesse em discutir e implementar Infraestrutura como Código, com ênfase no AWS CDK. Acredito que a automação da infraestrutura é essencial para garantir uma implantação consistente e confiável de aplicativos na nuvem.
 
-## ⚡ Stack
+* 📘 Estou sempre em busca de aprendizado contínuo e compartilhamento de conhecimento. Seja desenvolvendo projetos práticos, escrevendo artigos técnicos ou ensinando, estou comprometido em contribuir para a comunidade e promover o crescimento profissional 
+   de outros desenvolvedores.
+   
+# 🤝🚀 Habilidades Técnicas:
 
-* **Data Engineering:** Airflow, dbt, Spark, Databricks, Delta, EMR, Glue, Athena, Redshift, Snowflake, Kinesis.
-* **Software Engineering:** Lambda, ECS, Step Functions, SNS, SQS, RDS, ElasticSearch, AppSync, GraphQL, REST, FastAPI, SQLModel, DynamoDB.
-* **DevOps:** AWS CDK, CloudFormation, GitHub Actions, CircleCI, PagerDuty, Docker.
+Linguagens: C#, SQL
+Frameworks: .NET
+Bancos de Dados: SQL Server
+Ferramentas: Docker, Kubernetes
+Plataformas: AWS (Amazon Web Services)
+
+## 💡 Além de minhas habilidades técnicas, trago consigo uma experiência prática no desenvolvimento de soluções inovadoras. Recentemente, desenvolvi um software em C# que simplifica a coleta de dados de boletos bancários, proporcionando uma gestão financeira consolidada e segura por meio da extração precisa de códigos de barras e valores.
+
+Vamos nos conectar e explorar juntos as oportunidades para futuros projetos que nos aguardam!
